@@ -1,4 +1,3 @@
-/* Reset and base styles */
 body, html {
     margin: 0;
     padding: 0;
@@ -11,7 +10,6 @@ body, html {
     overflow: hidden;
   }
   
-  /* Chat Container */
   .chat-container {
     flex: 1;
     padding: 20px;
@@ -24,7 +22,6 @@ body, html {
     gap: 15px;
   }
   
-  /* Chat Bubbles */
   .ai-chat-box, .user-chat-box {
     display: flex;
     align-items: flex-start;
